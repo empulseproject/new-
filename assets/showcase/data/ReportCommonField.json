@@ -1,0 +1,33 @@
+{
+    "displayID": "0",
+    "fieldType": "Table",
+    "fieldName": "Common Fields",
+    "children": [
+      {
+        "displayID": "0",
+        "displayName":"Div",
+        "fieldName": "Div",
+        "fieldType": "divSection",
+        "children1": []
+      },
+      {
+        "displayID": "0",
+        "fieldName": "Text",
+        "fieldValue": "0",
+        "fieldType": "column",
+        "fieldId": "",
+        "displayName": "Text",
+        "Filter": false,
+        "kanbana": false,
+        "calendar": false,
+        "Hide": false,
+        "Link": "",
+        "SOP": "",
+        "fieldName1":"",
+        "displayName1":""
+
+      }
+
+    ]
+
+  }
